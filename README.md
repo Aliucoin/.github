@@ -3,4 +3,4 @@
 Aliucoin is a <b>BOOMING</b> cryptocurrency for the 22nd century, companion of <a href="https://github.com/Aliucord/Aliucord">Aliucord</a>, an Android Discord app inspired by desktop client modifications.
 </p>
 
-<h1 align="center"> See [the main repo](https://github.com/Aliucoin/Aliucoin) for more info.</h1>
+<p align="center"> See <a href="https://github.com/Aliucoin/Aliucoin">the main repo</a> for more info.</p>
